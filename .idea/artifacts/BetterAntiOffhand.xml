@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BetterAntiOffhand">
+    <output-path>$PROJECT_DIR$/out/artifacts/BetterAntiOffhand</output-path>
+    <root id="archive" name="BetterAntiOffhand.jar">
+      <element id="module-output" name="BetterAntiOffhand" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

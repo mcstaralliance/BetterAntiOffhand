@@ -1,0 +1,6 @@
+name: BetterAntiOffhand
+version: 0.0.1
+main: cn.xtuly.mcp.betterantioffhand.BetterAntiOffhand
+authors: [Ylarod]
+description: A Better AntiOffhand
+website: xtuly.cn

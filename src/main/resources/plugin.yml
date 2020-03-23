@@ -1,0 +1,6 @@
+name: BetterAntiOffhand
+version: ${project.version}
+main: cn.xtuly.mcp.betterantioffhand.BetterAntiOffhand
+authors: [Ylarod]
+description: A Better AntiOffhand
+website: xtuly.cn
